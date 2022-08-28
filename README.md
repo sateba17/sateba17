@@ -1,5 +1,5 @@
-### About Me :hand:
-#### My name is Serge Ateba
+## About Me :hand:
+### My name is Serge Ateba
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sateba&label=Views&color=blue&style=plastic" alt="sergeateba" /> </p> 
 
 <p>I am a self-starter design-minded software developer with a background in project management and consulting. Experienced in Go, Python, Django, Docker, Kubernetes as well as Javascript, React, Redux, React native and Nodejs. Committed to excellence, consistency and transparency, dedicated to continuous improvement and motivated by challenges.
@@ -21,7 +21,7 @@
 <a href = "mailto:sateba@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-### Languages and Tools
+## Languages and Tools
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
